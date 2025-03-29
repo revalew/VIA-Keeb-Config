@@ -10,4 +10,4 @@ To update the firmware follow the instructions:
 
 ---
 
-After the update I used the Linux AppImage version of VIA to configure the layout (and saved it in the same directory as this file in JSON format)
+After the update I used the Linux AppImage version of VIA to configure the layout and saved it in the same directory as this file in JSON format - [here](./keychron_q8_ansi_knob.layout.json)
