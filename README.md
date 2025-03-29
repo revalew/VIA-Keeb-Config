@@ -2,7 +2,30 @@
 
 <br/><br/>
 
-My setup is based on the [Keychron Q8 ANSI Knob](https://www.keychron.com/products/keychron-q8-alice-layout-qmk-custom-mechanical-keyboard) keyboard.
+My setup is based on the [Keychron Q8 M1 Alice layout](https://www.keychron.com/products/keychron-q8-alice-layout-qmk-custom-mechanical-keyboard) keyboard, which I bought heavily discounted (**70% off**, which is insane!).
+
+Specs:
+
+- Alice, ANSI, 65% layout,
+
+- Gateron G Pro RED switches,
+
+- Hot-Swap,
+
+- Knob,
+
+- Per-key RGB,
+
+- QMK/VIA support.
+
+<br/>
+
+<div align="center">
+
+<img src="./keeb.jpg" alt="Keychron Q8 ANSI Knob" width="400px" />
+
+</div>
+
 
 <br/><br/>
 
